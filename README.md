@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+Ex.Cryptocurrency Dashboard 
+<br />
+Home page
+![cryto 1](https://user-images.githubusercontent.com/37103032/182570180-60a1900b-4970-4c7c-a130-5210ea56ba62.png)
+![cryto 2](https://user-images.githubusercontent.com/37103032/182570497-0430082c-1878-4870-9574-6024d061bd74.png)
+<br />
+Coin page.
+![cryto 3](https://user-images.githubusercontent.com/37103032/182570520-cbd9b265-5b69-49bb-a1bc-c0d84ed7a061.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
